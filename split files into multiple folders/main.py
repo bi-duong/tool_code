@@ -1,7 +1,7 @@
 import os
 import shutil
 
-folder_path = "D:/Py/IVCaption/video"
+folder_path = "path folder"
 files = os.listdir(folder_path)
 i = 0
 folder_num = 1
